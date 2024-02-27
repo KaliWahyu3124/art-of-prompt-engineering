@@ -19,3 +19,6 @@ Modules Use:
  KaplanMeierFitter
  HuggingFaceHub
  PromptTemplate
+
+Tool:
+ Jupyter Notebook
