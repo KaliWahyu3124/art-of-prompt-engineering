@@ -7,4 +7,15 @@ Name: Wahyu Cahyono. P
 Program: IBM Advanced AI
 
 Tech Stack:
-Python
+ Python
+
+Librarys Use:
+ lifelines
+ os
+ langchain
+
+Modules Use:
+ load_ad
+ KaplanMeierFitter
+ HuggingFaceHub
+ PromptTemplate
