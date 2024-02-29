@@ -1,6 +1,6 @@
 # The Art of Prompt Engineering
 
-## Author: Unknown
+## Author: Sina Nazeri (PhD.)	
 
 ## Mentee Info
 - Name: Wahyu Cahyono. P
