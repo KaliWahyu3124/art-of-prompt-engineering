@@ -6,6 +6,9 @@
 - Name: Wahyu Cahyono. P
 - Program: IBM Advanced AI
 
+## Tujuan:
+- Teknis penggunaan prompt dengan benar dan tepat. Terkadang perlu menginputkan perintah yang spesifik agar hasil yang didapatkan juga sesuai.
+
 ## Tech Stack and Tool:
 - Python
 - Jupyter Notebook
