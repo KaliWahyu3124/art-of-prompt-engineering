@@ -1,6 +1,6 @@
 # The Art of Prompt Engineering
 
-## Author: Cognitiv Class AI
+## Author: Unknown
 
 ## Mentee Info
 - Name: Wahyu Cahyono. P
